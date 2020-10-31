@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.container {
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.first-student {
+    margin-top: 20px;
+}
